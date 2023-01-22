@@ -20,16 +20,17 @@
     "generate_parser": "node control_panel/js/generator.js"
   },
   "devDependencies": {
-    "electron-reload": "^1.5.0"
+    "electron-reload": "^1.5.0",
+    "gh-pages": "^5.0.0"
   },
   "dependencies": {
     "@arction/lcjs": "^3.4.0",
     "@electron/remote": "^2.0.8",
-    "bootstrap-slider": "^11.0.2",
     "bootstrap": "^4.6.0",
+    "bootstrap-slider": "^11.0.2",
     "dataframe-js": "^1.4.4",
+    "electron": "^22.0.3",
     "electron-localshortcut": "^3.2.1",
-    "electron": "^21.3.1",
     "fast-csv": "^4.3.6",
     "jbinary": "^2.1.5",
     "jquery": "^3.6.1",
@@ -37,7 +38,7 @@
     "node-fetch": "^3.2.10",
     "npm": "^8.19.3",
     "popper.js": "^1.16.1",
-    "riot": "^3.13.2",
+    "riot": "^7.1.0",
     "run-script-os": "^1.1.6"
   }
 }
